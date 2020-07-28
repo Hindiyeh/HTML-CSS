@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    
+  }
+  
+
+  h1 {
+      font-family: Helvetica;
+      font-weight: bold;
+      font-size: 32px;
+      color: white;
+  }
+
+  h1.Mainsitetitle {
+      background-image: url("../images/pattern.jpeg");
+      font-size: 100px;
+      color: khaki;
+      text-align: center;
+  }
+
+  span.price {
+      font-family: Helvetica;
+      font-weight: bold;
+      color: blue;
+  }
